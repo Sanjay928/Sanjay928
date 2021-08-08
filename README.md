@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Sanjay928
 - 👀 I’m interested in Traveling, Web Developement.
-- 🌱 I’m currently learning B.Tech in Information Technology
-- 💞️ I’m looking to collaborate on front end developement
 - 📫 How to reach me www.linkedin.com/in/sanjay-jengthe-68818a194
 
 <!---
